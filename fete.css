@@ -1,0 +1,40 @@
+h1.line1{
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1.line2{
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    background-color: rgb(194, 22, 22);
+}
+img.cadeau{
+
+    margin-left: 50px;
+width: 200px;
+    margin-top: 50px;
+}
+p.cadeau{
+    position: absolute;
+    left: 120px;
+    color: aliceblue;
+}
+p.cadeau:hover{
+    color: #000;
+}
+img.texte{
+    width: 205px;
+    margin-left: 400px;
+}
+p.texte{
+    color: aliceblue;
+    position: absolute;
+    right: 120px;
+}
+p.texte:hover{
+    color: #000;
+ 
+}
